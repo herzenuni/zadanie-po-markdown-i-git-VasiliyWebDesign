@@ -89,7 +89,7 @@
 <div>
 <h2 align="center">Рейтинг</h2>
 	<h3> Контакты </h3>
-	<h4> </h4>
-	<h4><a href="mailto:ctel-herzen@yandex.ru">Санкт-Петербург, наб. реки Мойки, 48, корпус 1, аудитория 329
+	<h4><a href="mailto:ctel-herzen@yandex.ru">ctel-herzen@yandex.ru</a></h4>
+	<h4><a href="https://www.google.ru/maps/place/1+%D0%BA%D0%BE%D1%80%D0%BF%D1%83%D1%81/@59.9340622,30.316832,17z/data=!4m13!1m7!3m6!1s0x4696319a699e968d:0xce67e04e5a3b88fb!2z0L3QsNCxLiDRgNC10LrQuCDQnNC-0LnQutC4LCA0OCDQutC-0YDQv9GD0YEgMSwg0KHQsNC90LrRgi3Qn9C10YLQtdGA0LHRg9GA0LMsIDE5MTE4Ng!3b1!8m2!3d59.932328!4d30.3188027!3m4!1s0x0:0xde67d372394025c!8m2!3d59.9327881!4d30.3181256 ">Санкт-Петербург, наб. реки Мойки, 48, корпус 1, аудитория 329
 </a> </h4>
 	<h4> +7 (812) 643-77-67 </h4>
