@@ -22,9 +22,9 @@
 <a href="https://ict.herzen.spb.ru/activity/vkr">ВКР<a>.
 
 Наука:
-<a href="https://ict.herzen.spb.ru/science/research-work">НИР студентов<a>
-<a href="https://ict.herzen.spb.ru/science/projects">Проекты<a>
-<a href="https://ict.herzen.spb.ru/science/conferences">Конференции<a>
+<a href="https://ict.herzen.spb.ru/science/research-work">НИР студентов<a>,
+<a href="https://ict.herzen.spb.ru/science/projects">Проекты<a>,
+<a href="https://ict.herzen.spb.ru/science/conferences">Конференции<a>,
 <a href="https://ict.herzen.spb.ru/science/publications"> Публикации<a>.
 
 <a href="https://ict.herzen.spb.ru/events"> <a>События
