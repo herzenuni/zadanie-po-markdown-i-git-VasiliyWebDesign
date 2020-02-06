@@ -1,6 +1,6 @@
 # HerzenPractice1
-
-![alt text](https://raw.githubusercontent.com/VasiliyWebDesign/HerzenPractice1/master/head.jpeg "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/VasiliyWebDesign/HerzenPractice1/master/herzen-logo-small-orig.png)
+![alt text](https://raw.githubusercontent.com/VasiliyWebDesign/HerzenPractice1/master/head.jpeg)
 
 <!DOCTYPE html>
 <html lang="en">
