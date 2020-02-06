@@ -122,9 +122,12 @@
 </div>
 <div>
 <h2 align="center">Рейтинг</h2>
-<h2 align="center">Рейтинг</h2>
-| Tables| are| nt| cool| | |
-| yes|they | are |not | | |
+<h5 align="center">Рейтинговые показатели кафедры</h5>
+<h5>Раздел «Учебно — методическое обеспечение образовательного
+процесса»<h5>
+| №| Показатели                                                   | 20.05.17-    |20.09.17- | 20.12.17-| 20.03.17-|20.05.17- |20.09.18-|
+| 1|Количество дистанционных курсов в системе moodle.herzen.spb.ru| 19.09.17     |19.12.17  |19.03.18  | 19.05.18 | 19.09.18 | 19.12.18|
+|  |                                                              | 54           |    55    |     63   |      6   |     85   | 102     |
 	<h3> Контакты </h3>
 	<h4><a href="mailto:ctel-herzen@yandex.ru">ctel-herzen@yandex.ru</a></h4>
 	<h4><a href="https://www.google.ru/maps/place/1+%D0%BA%D0%BE%D1%80%D0%BF%D1%83%D1%81/@59.9340622,30.316832,17z/data=!4m13!1m7!3m6!1s0x4696319a699e968d:0xce67e04e5a3b88fb!2z0L3QsNCxLiDRgNC10LrQuCDQnNC-0LnQutC4LCA0OCDQutC-0YDQv9GD0YEgMSwg0KHQsNC90LrRgi3Qn9C10YLQtdGA0LHRg9GA0LMsIDE5MTE4Ng!3b1!8m2!3d59.932328!4d30.3188027!3m4!1s0x0:0xde67d372394025c!8m2!3d59.9327881!4d30.3181256 ">Санкт-Петербург, наб. реки Мойки, 48, корпус 1, аудитория 329
