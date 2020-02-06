@@ -87,40 +87,7 @@
 </p>
 </div>
 <div>
-<h4>Рейтинг</h4>
+<h2 align="center">Рейтинг</h2>
 
-<a href="/user/themes/bootstrap/images/rating.png"><img src="/user/themes/bootstrap/images/rating.png" style="width: 50%"> </a>
-</div>
-
-<br> 
-<center>
-    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
-	  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img class="d-block w-75" src="/user/themes/bootstrap/images/master-photos/DSCN0951.JPG" alt="Кафедра КТиЭО">
-    </div>
-    <div class="carousel-item">
-      <img class="d-block w-75" src="/user/themes/bootstrap/images/master-photos/gall_img.php1.jpeg" alt="Кафедра КТиЭО">
-    </div>
-    <div class="carousel-item">
-      <img class="d-block w-75" src="/user/themes/bootstrap/images/master-photos/С_Виртом.JPG" alt="Кафедра КТиЭО">
-    </div>
-    <div class="carousel-item">
-      <img class="d-block w-75" src="/user/themes/bootstrap/images/master-photos/FOTO_3.JPG" alt="Кафедра КТиЭО">
-    </div>
-
-  </div>
-  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
-</center>
-<br> 
-<br>
 
 
