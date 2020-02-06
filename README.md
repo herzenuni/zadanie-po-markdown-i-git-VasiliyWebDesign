@@ -1,37 +1,37 @@
 ![alt text](https://raw.githubusercontent.com/VasiliyWebDesign/HerzenPractice1/master/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2006-02-2020%20182841.png)
 
 
-Главная
+<a href="https://ict.herzen.spb.ru/">Главная<a>
 
-Абитуриенту
+<a href="https://ict.herzen.spb.ru/enrollee">Абитуриенту<a>
 
 Кафедра:
-Кафедра,
-О кафедре,
-Завкафедрой,
-Сотрудники,
-Выпускники,
-Наши разработки,
-Документы.
+<a href="https://ict.herzen.spb.ru/department">Кафедра<a>,
+<a href="https://ict.herzen.spb.ru/department/about-us">О кафедре<a>,
+<a href="https://ict.herzen.spb.ru/department/employees/person/vlasova-e-z">Завкафедрой<a>,
+<a href="https://ict.herzen.spb.ru/department/employees">Сотрудники<a>,
+<a href="https://ict.herzen.spb.ru/department/graduates">Выпускники<a>,
+<a href="https://ict.herzen.spb.ru/department/development">Наши разработки<a>,
+<a href="https://ict.herzen.spb.ru/department/documents">Документы<a>.
 
 Учебная деятельность:
-Образовательная программа,
-Электронное обучение,
-Электронная библиотека,
-Практика,
-ВКР.
+<a href="https://ict.herzen.spb.ru/activity/educational-program">Образовательная программа<a>,
+<a href="https://ict.herzen.spb.ru/activity/e-learning">Электронное обучение<a>,
+<a href="https://ict.herzen.spb.ru/activity/digital-library">Электронная библиотека<a>,
+<a href="https://ict.herzen.spb.ru/activity/practice">Практика<a>,
+<a href="https://ict.herzen.spb.ru/activity/vkr">ВКР<a>.
 
 Наука:
-НИР студентов,
-Проекты,
-Конференции,
-Публикации.
+<a href="https://ict.herzen.spb.ru/science/research-work">НИР студентов<a>
+<a href="https://ict.herzen.spb.ru/science/projects">Проекты<a>
+<a href="https://ict.herzen.spb.ru/science/conferences">Конференции<a>
+<a href="https://ict.herzen.spb.ru/science/publications"> Публикации<a>.
 
-События
+<a href="https://ict.herzen.spb.ru/events"> <a>События
 
-Медиазал
+<a href="https://ict.herzen.spb.ru/media-room"> <a>Медиазал
 
-Партнёры
+<a href="https://ict.herzen.spb.ru/partners"> <a>Партнёры
 
 		
      			
