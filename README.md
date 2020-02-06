@@ -1,2 +1,3 @@
 # HerzenPractice1
-https://github.com/VasiliyWebDesign/HerzenPractice1/blob/master/head.jpeg
+
+![alt text](https://raw.githubusercontent.com/VasiliyWebDesign/HerzenPractice1/master/head.jpeg "Logo Title Text 1")
