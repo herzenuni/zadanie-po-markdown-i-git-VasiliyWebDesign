@@ -2,42 +2,33 @@
 
 ![alt text](https://raw.githubusercontent.com/VasiliyWebDesign/HerzenPractice1/master/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2006-02-2020%20182841.png)
 
+<p>
+<a href="https://ict.herzen.spb.ru/">Главная<a></p>
 
-<a href="https://ict.herzen.spb.ru/">Главная<a>
-
-<a href="https://ict.herzen.spb.ru/enrollee">Абитуриенту<a>
-
+<p><a href="https://ict.herzen.spb.ru/enrollee">Абитуриенту<a></p>
 Кафедра:
-<a href="https://ict.herzen.spb.ru/department">Кафедра<a>,
-<a href="https://ict.herzen.spb.ru/department/about-us">О кафедре<a>,
-<a href="https://ict.herzen.spb.ru/department/employees/person/vlasova-e-z">Завкафедрой<a>,
-<a href="https://ict.herzen.spb.ru/department/employees">Сотрудники<a>,
-<a href="https://ict.herzen.spb.ru/department/graduates">Выпускники<a>,
-<a href="https://ict.herzen.spb.ru/department/development">Наши разработки<a>,
-<a href="https://ict.herzen.spb.ru/department/documents">Документы<a>.
-
+<p><a href="https://ict.herzen.spb.ru/department">Кафедра<a>,</p>
+<p><a href="https://ict.herzen.spb.ru/department/about-us">О кафедре<a>,</p>
+<p><a href="https://ict.herzen.spb.ru/department/employees/person/vlasova-e-z">Завкафедрой<a>,</p>
+<p><a href="https://ict.herzen.spb.ru/department/employees">Сотрудники<a>,</p>
+<p><a href="https://ict.herzen.spb.ru/department/graduates">Выпускники<a>,</p>
+<p><a href="https://ict.herzen.spb.ru/department/development">Наши разработки<a>,</p>
+<p><a href="https://ict.herzen.spb.ru/department/documents">Документы<a>.</p>
 Учебная деятельность:
-<a href="https://ict.herzen.spb.ru/activity/educational-program">Образовательная программа<a>,
-<a href="https://ict.herzen.spb.ru/activity/e-learning">Электронное обучение<a>,
-<a href="https://ict.herzen.spb.ru/activity/digital-library">Электронная библиотека<a>,
-<a href="https://ict.herzen.spb.ru/activity/practice">Практика<a>,
-<a href="https://ict.herzen.spb.ru/activity/vkr">ВКР<a>.
-
+<p><a href="https://ict.herzen.spb.ru/activity/educational-program">Образовательная программа<a>,</p>
+<p><a href="https://ict.herzen.spb.ru/activity/e-learning">Электронное обучение<a>,</p>
+<p><a href="https://ict.herzen.spb.ru/activity/digital-library">Электронная библиотека<a>,</p>
+<p><a href="https://ict.herzen.spb.ru/activity/practice">Практика<a>,</p>
+<p><a href="https://ict.herzen.spb.ru/activity/vkr">ВКР<a>.</p>
 Наука:
-<a href="https://ict.herzen.spb.ru/science/research-work">НИР студентов<a>,
-<a href="https://ict.herzen.spb.ru/science/projects">Проекты<a>,
-<a href="https://ict.herzen.spb.ru/science/conferences">Конференции<a>,
-<a href="https://ict.herzen.spb.ru/science/publications"> Публикации<a>.
+<p><a href="https://ict.herzen.spb.ru/science/research-work">НИР студентов<a>,</p>
+<p><a href="https://ict.herzen.spb.ru/science/projects">Проекты<a>,</p>
+<p><a href="https://ict.herzen.spb.ru/science/conferences">Конференции<a>,</p>
+<p><a href="https://ict.herzen.spb.ru/science/publications"> Публикации<a>.</p>
+<p><a href="https://ict.herzen.spb.ru/events">События<a></p>
+<p><a href="https://ict.herzen.spb.ru/media-room">Медиазал<a></p>
+<p><a href="https://ict.herzen.spb.ru/partners">Партнёры<a></p>
 
-<a href="https://ict.herzen.spb.ru/events">События<a>
-
-<a href="https://ict.herzen.spb.ru/media-room">Медиазал<a>
-
-<a href="https://ict.herzen.spb.ru/partners">Партнёры<a>
-
-		
-     			
-            
 <h2 align="center">О КАФЕДРЕ</h2>
 <br>
 <br>
@@ -121,28 +112,24 @@
 </p>
 </div>
 <div>
-<h2 align="center">Рейтинг</h2>
-<h5 align="center">Рейтинговые показатели кафедры</h5>
-<h5>Раздел «Учебно — методическое обеспечение образовательного
-процесса»<h5>
-<p>	№	1</p>
-<p>Показатели Количество дистанционных курсов в системе moodle.herzen.spb.ru</p>
-<p>20.05.17-19.09.17	54</p>
- <p>20.09.17-19.12.17	55</p>
-<p>20.12.17-19.03.18	63</p>
- <p>20.03.17-19.05.18	66</p>
- <p>20.05.17-19.09.18	85</p>
-<p> 20.09.18-19.12.18	102</p>
-<p> </p>
-<h5>Раздел «Публикационная активность»</h5>
-<p>	№	1		2	3	4</p>
-<p>Показатели Количество статей по профилю кафедры, опубликованных штатными преподавателями кафедры и изданных в научной периодике, индексируемой системой РИНЦ. Число цитирования статей по профилю кафедры, опубликованных штатными преподавателями кафедры и изданных в научной периодике, индексируемой системой РИНЦ. Индекс Хирша в РИНЦ. Количество публикаций в зарубежных изданиях.</p>
-<p>20.05.17-19.09.17	1185 9279 118 17</p>
- <p>20.09.17-19.12.17	1229 9228 121 17</p>
- <p>20.12.17-20.03.18 1254 10171 128 27</p>
- <p>20.09.18-19.12.18 1395 12085 141 11</p>
-	<h3> Контакты </h3>
-	<h4><a href="mailto:ctel-herzen@yandex.ru">ctel-herzen@yandex.ru</a></h4>
-	<h4><a href="https://www.google.ru/maps/place/1+%D0%BA%D0%BE%D1%80%D0%BF%D1%83%D1%81/@59.9340622,30.316832,17z/data=!4m13!1m7!3m6!1s0x4696319a699e968d:0xce67e04e5a3b88fb!2z0L3QsNCxLiDRgNC10LrQuCDQnNC-0LnQutC4LCA0OCDQutC-0YDQv9GD0YEgMSwg0KHQsNC90LrRgi3Qn9C10YLQtdGA0LHRg9GA0LMsIDE5MTE4Ng!3b1!8m2!3d59.932328!4d30.3188027!3m4!1s0x0:0xde67d372394025c!8m2!3d59.9327881!4d30.3181256 ">Санкт-Петербург, наб. реки Мойки, 48, корпус 1, аудитория 329
-</a> </h4>
-	<h4> +7 (812) 643-77-67 </h4>
+<h2><p align='center'> Рейтинг </p></h2>
+<p align='center'> <b>Рейтинговые показатели кафедры</b> </p>
+<p><b> Раздел «Учебно-методическое обеспечение образовательного процесса» </b></p>
+
+| № | Показатели | 20.05.17-19.09.17 | 20.09.17-19.12.17 | 20.12.17-19.03.18 | 20.03.17-19.05.18 | 20.05.17-19.09.18 | 20.09.18-19.12.18 |
+| :--: | :--------: | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: |
+| 1 | **Количество дистанционных курсов в системе moodle.herzen.spb.ru ** |54| 55 | 63 | 66 | 85 | 102 |
+
+#### Раздел «Публикационная активность» ####
+
+|№|Показатели|20.05.17-19.09.17|20.09.17-19.12.17|20.12.17-20.03.18|20.09.18-19.12.18|
+|:--:|:--:|:--:|:--:|:--:|:--:|
+|1|**Количество статей** по профилю кафедры, опубликованных штатными преподавателями кафедры и изданных в научной периодике, индексируемой системой РИНЦ|1185|1229|1254|1395|
+|2|**Число цитирования статей** по профилю кафедры, опубликованных штатными преподавателями кафедры и изданных в научной периодике, индексируемой системой РИНЦ|9279|9228|10171|12085|
+|3|**Индекс Хирша** в РИНЦ|118|121|128|141|
+|4|**Количество публикаций в зарубежных изданиях**|17|17|27|11|
+<h3> Контакты </h3>
+<h4><a href="mailto:ctel-herzen@yandex.ru">ctel-herzen@yandex.ru</a></h4>
+<h4><a href="https://www.google.ru/maps/place/1+%D0%BA%D0%BE%D1%80%D0%BF%D1%83%D1%81/@59.9340622,30.316832,17z/data=!4m13!1m7!3m6!1s0x4696319a699e968d:0xce67e04e5a3b88fb!2z0L3QsNCxLiDRgNC10LrQuCDQnNC-0LnQutC4LCA0OCDQutC-0YDQv9GD0YEgMSwg0KHQsNC90LrRgi3Qn9C10YLQtdGA0LHRg9GA0LMsIDE5MTE4Ng!3b1!8m2!3d59.932328!4d30.3188027!3m4!1s0x0:0xde67d372394025c!8m2!3d59.9327881!4d30.3181256 ">Санкт-Петербург, наб. реки Мойки, 48, корпус 1, аудитория 329
+</a> </h4> 
+<h4> +7 (812) 643-77-67 </h4> </p>
