@@ -29,11 +29,11 @@
 <a href="https://ict.herzen.spb.ru/science/conferences">Конференции<a>,
 <a href="https://ict.herzen.spb.ru/science/publications"> Публикации<a>.
 
-<a href="https://ict.herzen.spb.ru/events"> <a>События
+<a href="https://ict.herzen.spb.ru/events">События<a>
 
-<a href="https://ict.herzen.spb.ru/media-room"> <a>Медиазал
+<a href="https://ict.herzen.spb.ru/media-room">Медиазал<a>
 
-<a href="https://ict.herzen.spb.ru/partners"> <a>Партнёры
+<a href="https://ict.herzen.spb.ru/partners">Партнёры<a>
 
 		
      			
